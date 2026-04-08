@@ -1,0 +1,26 @@
+This is NOT a application that violates Roblox's ToS. I do not condone getting Robux in any third-party way that's
+not supported by Roblox themselves. This app is only meant to be a prank, and is not meant to scam or hack
+you. Those are just added for comedic effect. Also, this app is NOT a RAT. I will happily give you the code; and
+even the raw batch file just to prove it.
+
+Q&A:
+
+Q: Why did you make this?
+A: Simple. I just really felt like pranking someone, and there's no better way to do that than tricking someone
+into thinking their account is compromised; and then telling them after that their account is at ease, and seeing
+the relief on their faces.
+
+Q: Why are you so worried about this app? It's almost like you're afraid you can get in legal trouble for this.
+A: ... The fact this text file is here in the first place and is named exactly how it is should tell you a lot, but,
+since I'm nice, I'll explain it anyway. You see, publishing EXE's like this plain and simple can be perceived as
+"scamming". Since I am not the one to scam, and I don't feel like getting into legal trouble, I have made this
+document to set things straight.
+
+Q: Why did you add a version with more padding? If anything, what other changes were made?
+A: The version with more padding is exactly what it sounds like. It's just the same thing, but for tech-savvy people.
+I simply just stitched more bogus to the application to make it seem more legit to tech-savvy people.
+It's honestly terrifying how you can just do that with vanilla Windows commands.
+
+Q: Why did you make a fake RAT version? That sounds a little fucked up.
+... Well, if you're feeling extra pranky, and you wanna scare the hell out of somebody, just give them v3.
+Other than that, I aint talking.
